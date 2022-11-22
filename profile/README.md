@@ -15,7 +15,7 @@ union XenFork {
 ## Planned Item List
 
 <details>
-<summary>Expand View Fabric</summary>
+<summary>Expand View Item</summary>
 <span>
 
 - [SquilCraft](https://github.com/XenFork/SquidCraft)
