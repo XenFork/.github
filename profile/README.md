@@ -18,9 +18,10 @@ union XenFork {
 <summary>Expand View Item</summary>
 <span>
 
-- [SquilCraft](https://github.com/XenFork/SquidCraft)
+- [SquidCraft](https://github.com/XenFork/SquidCraft)
 - [t Xen All Language Mod](https://github.com/XenFork/tXenAllLanguageMod)
 - [Compressed](https://github.com/XenFork/Compressed)
 - [Minecraft2D-Kotlin](https://github.com/XenFork/Minecraft2D-Kotlin)
+
 </span>
 </details>
