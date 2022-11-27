@@ -12,6 +12,10 @@ union XenFork {
     organization Overrun;
 }
 ```
+## Join Us
+
+Create a new [issue](https://github.com/XenFork/.github/issues/new).
+
 ## Planned Item List
 
 <details>
