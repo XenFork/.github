@@ -23,9 +23,9 @@ Create a new [issue](https://github.com/XenFork/.github/issues/new).
 <span>
 
 - [SquidCraft](https://github.com/XenFork/SquidCraft)
+- [Nucleoplasm](https://github.com/XenFork/nucleoplasm)
 - [t Xen All Language Mod](https://github.com/XenFork/tXenAllLanguageMod)
-- [Compressed](https://github.com/XenFork/Compressed)
-- [Minecraft2D-Kotlin](https://github.com/XenFork/Minecraft2D-Kotlin)
+- [CuboidX](https://github.com/XenFork/cuboidx)
 
 </span>
 </details>
