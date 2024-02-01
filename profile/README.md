@@ -1,4 +1,4 @@
-## Hi there 👋
+## hey, ladies and gentlemen, 👋 ![资料阅览数量](https://profile-counter.glitch.me/XenFork/count.svg)
 
 Welcome to XenFork Union.
 
