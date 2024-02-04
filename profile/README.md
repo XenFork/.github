@@ -10,6 +10,9 @@ union XenFork {
     organization AmazingRabbit_Studio;
     organization FunnyDevelopers;
     organization Overrun;
+    organization CopyMCModTeam;
+    organization AtionMC;
+    organization ChinaWareMC;
 }
 ```
 
