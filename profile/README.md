@@ -1,4 +1,4 @@
-## hey, ladies and gentlemen, 👋 ![资料阅览数量](https://profile-counter.glitch.me/XenFork/count.svg)
+## Hi there 👋 ![View count](https://profile-counter.glitch.me/XenFork/count.svg)
 
 Welcome to XenFork Union.
 
@@ -30,7 +30,7 @@ union XenFork {
 
 ## Join Us
 
-Create <a href="https://github.com/XenFork/.github/discussions/new?category=general"><image src="https://github.githubassets.com/assets/1f4ac-38a5e6d53606.png" width=20 height=20></a>
+New [discussion](https://github.com/orgs/XenFork/discussions).
 
 
 ## All projects selector
