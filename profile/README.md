@@ -30,7 +30,8 @@ union XenFork {
 
 ## Join Us
 
-Create a new [discussions](https://github.com/XenFork/.github/discussions/new?category=general)
+Create <a href="https://github.com/XenFork/.github/discussions/new?category=general"><image src="https://github.githubassets.com/assets/1f4ac-38a5e6d53606.png" width=20 height=20></a>
+
 
 ## All projects selector
 - [APS](https://github.com/XenFork/all-project-version-selector)
