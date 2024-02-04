@@ -22,7 +22,7 @@ union XenFork {
 <a href="https://learn.microsoft.com/zh-cn/dotnet/csharp/"><image src="https://learn.microsoft.com/zh-cn/media/logos/logo_Csharp.svg" width=100 height=100></a>
 <a href="https://learn.microsoft.com/zh-cn/dotnet/fsharp/"><image src="https://learn.microsoft.com/zh-cn/media/logos/logo_Fsharp.svg" width=100 height=100></a>
 <a href="https://learn.microsoft.com/zh-cn/dotnet/visual-basic/"><image src="https://learn.microsoft.com/zh-cn/media/logos/logo_VB.svg" width=100 height=100></a>
-<a href="https://www.java.com/"><image src="https://th.bing.com/th?id=ODLS.f8701c0e-08d1-4088-9d12-62a1b6912ddf&w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2" width=100 height=100></a>
+<a href="https://www.java.com/"><image src="https://brandlogos.net/wp-content/uploads/2021/11/java-logo.png" width=100 height=100></a>
 <a href="https://github.com/CraftTweaker"><image src="https://avatars.githubusercontent.com/u/36635386?s=48&v=4" width=100 height=100></a>
 <a href="https://github.com/golang"><image src="https://avatars.githubusercontent.com/u/4314092?s=48&v=4" width=100 height=100></a>
 <a href="https://github.com/openjdk"><image src="https://avatars.githubusercontent.com/u/41768318?s=200&v=4" width=100 height=100></a>
