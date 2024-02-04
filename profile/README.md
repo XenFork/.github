@@ -42,17 +42,16 @@ New [discussion](https://github.com/orgs/XenFork/discussions).
 <summary>Expand View Item</summary>
 <span>
 
-- [SquidCraft](https://github.com/XenFork/SquidCraft)
-- [Nucleoplasm](https://github.com/XenFork/nucleoplasm)
-- [t Xen All Language Mod](https://github.com/XenFork/tXenAllLanguageMod)
-- [CuboidX](https://github.com/XenFork/cuboidx)
-- [I18n Input Method](https://github.com/XenFork/I18nInputMethod)
-- [flower](https://github.com/XenFork/flower)
-- [Recx](https://github.com/XenFork/Recx)
-- [Fe2D](https://github.com/XenFork/Fe2D)
-- [Compressed](https://github.com/XenFork/Compressed)
-- [sins](https://github.com/XenFork/sins)
-
+[![SquidCraft](https://github-readme-stats.vercel.app/api/pin/?username=XenFork&repo=SquidCraft)](https://github.com/XenFork/SquidCraft)
+[![Nucleoplasm](https://github-readme-stats.vercel.app/api/pin/?username=XenFork&repo=nucleoplasm)](https://github.com/XenFork/nucleoplasm)
+[![t Xen All Language Mod](https://github-readme-stats.vercel.app/api/pin/?username=XenFork&repo=tXenAllLanguageMod)](https://github.com/XenFork/tXenAllLanguageMod)
+[![CuboidX](https://github-readme-stats.vercel.app/api/pin/?username=XenFork&repo=cuboidx)](https://github.com/XenFork/cuboidx)
+[![I18n Input Method](https://github-readme-stats.vercel.app/api/pin/?username=XenFork&repo=I18nInputMethod)](https://github.com/XenFork/I18nInputMethod)
+[![flower](https://github-readme-stats.vercel.app/api/pin/?username=XenFork&repo=flower)](https://github.com/XenFork/flower)
+[![Fe2D](https://github-readme-stats.vercel.app/api/pin/?username=XenFork&repo=flower)](https://github.com/XenFork/Fe2D)
+[![Recx](https://github-readme-stats.vercel.app/api/pin/?username=XenFork&repo=Recx)](https://github.com/XenFork/Recx)
+[![Compressed](https://github-readme-stats.vercel.app/api/pin/?username=XenFork&repo=Recx)](https://github.com/XenFork/Compressed)
+[![sins](https://github-readme-stats.vercel.app/api/pin/?username=XenFork&repo=Recx)](https://github.com/XenFork/sins)
 
 </span>
 </details>
