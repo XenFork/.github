@@ -30,7 +30,7 @@ union XenFork {
 
 ## Join Us
 
-Create a new [issue](https://github.com/XenFork/.github/issues/new).
+Create a new [discussions](https://github.com/XenFork/.github/discussions/new?category=general)
 
 ## All projects selector
 - [APS](https://github.com/XenFork/all-project-version-selector)
